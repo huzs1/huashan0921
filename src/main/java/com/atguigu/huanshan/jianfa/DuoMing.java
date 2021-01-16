@@ -13,5 +13,6 @@ public class DuoMing {
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
+        System.out.println("我这里有三仙剑的武功秘籍！！！");
     }
 }
