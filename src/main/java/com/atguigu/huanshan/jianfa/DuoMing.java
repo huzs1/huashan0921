@@ -7,8 +7,9 @@ public class DuoMing {
 红色  未追踪的文件
 绿色  进入暂存区
 黑色  已提交到本地库中，而且未被修改过
-蓝色  已提交到本地库中，被修改过
+蓝色  已提交到本地库中(旧版本)，被自己修改过(新版本)，但新版本未提交到本地仓库
 */
+        System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
